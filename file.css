@@ -1,0 +1,20 @@
+.cart {
+    margin-left: 10%;
+}
+
+.btn-add {
+    margin-left: 10px;
+}
+
+.list-tile {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.list {
+    list-style: none;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding-top: 20px;
+}
